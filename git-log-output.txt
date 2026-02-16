@@ -1,0 +1,25 @@
+commit aa1d4b514b6c86f3c5689db5c88a5cde1db458d7
+Author: JacobSalgado <153098612+JacobSalgado@users.noreply.github.com>
+Date:   Sun Feb 15 23:52:23 2026 -0500
+
+    Revert "new experimental files"
+    
+    This reverts commit c5bc09243e20fbfdbb1ac6539aba1c707438aa13.
+
+commit c5bc09243e20fbfdbb1ac6539aba1c707438aa13
+Author: JacobSalgado <153098612+JacobSalgado@users.noreply.github.com>
+Date:   Sun Feb 15 23:51:51 2026 -0500
+
+    new experimental files
+
+commit fcfea5743142d4ee2065e239ab4e14780a7d8020
+Author: JacobSalgado <153098612+JacobSalgado@users.noreply.github.com>
+Date:   Sun Feb 15 23:40:04 2026 -0500
+
+    modified os-release file
+
+commit 0b708b10f2d4c0e07f088696693eacac2ee34001
+Author: JacobSalgado <jrs244@njit.edu>
+Date:   Sun Feb 15 23:02:38 2026 -0500
+
+    Initial commit
